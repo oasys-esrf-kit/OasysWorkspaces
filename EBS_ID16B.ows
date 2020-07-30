@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme description="" title="EBS ID16B" version="2.0" working_directory="/users/srio/Oasys" workspace_units="0">
+	<nodes>
+		<node id="0" name="Undulator Light Source" position="(81.0, 196.0)" project_name="OASYS1-SYNED" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" title="Undulator Light Source" version="" />
+		<node id="1" name="Undulator Gaussian" position="(265.0, 134.0)" project_name="OASYS1-ShadowOui" qualified_name="orangecontrib.shadow.widgets.sources.ow_undulator_gaussian.UndulatorGaussian" title="Undulator Gaussian" version="" />
+	</nodes>
+	<links>
+		<link enabled="true" id="0" sink_channel="SynedData" sink_node_id="1" source_channel="SynedData" source_node_id="0" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties format="pickle" node_id="0">gAN9cQAoWAwAAABLX2hvcml6b250YWxxAUcAAAAAAAAAAFgKAAAAS192ZXJ0aWNhbHECRz/fcxaE
+9BKDWAsAAABhdXRvX2VuZXJneXEDRwAAAAAAAAAAWBQAAABhdXRvX2hhcm1vbmljX251bWJlcnEE
+SwFYFQAAAGVsZWN0cm9uX2JlYW1fYWxwaGFfaHEFRwAAAAAAAAAAWBUAAABlbGVjdHJvbl9iZWFt
+X2FscGhhX3ZxBkcAAAAAAAAAAFgUAAAAZWxlY3Ryb25fYmVhbV9iZXRhX2hxB0cAAAAAAAAAAFgU
+AAAAZWxlY3Ryb25fYmVhbV9iZXRhX3ZxCEcAAAAAAAAAAFgaAAAAZWxlY3Ryb25fYmVhbV9kaXZl
+cmdlbmNlX2hxCUc+0lJUbAEas1gaAAAAZWxlY3Ryb25fYmVhbV9kaXZlcmdlbmNlX3ZxCkc+txF+
+f3pFKVgZAAAAZWxlY3Ryb25fYmVhbV9lbWl0dGFuY2VfaHELRwAAAAAAAAAAWBkAAABlbGVjdHJv
+bl9iZWFtX2VtaXR0YW5jZV92cQxHAAAAAAAAAABYEwAAAGVsZWN0cm9uX2JlYW1fZXRhX2hxDUcA
+AAAAAAAAAFgTAAAAZWxlY3Ryb25fYmVhbV9ldGFfdnEORwAAAAAAAAAAWBQAAABlbGVjdHJvbl9i
+ZWFtX2V0YXBfaHEPRwAAAAAAAAAAWBQAAABlbGVjdHJvbl9iZWFtX2V0YXBfdnEQRwAAAAAAAAAA
+WBQAAABlbGVjdHJvbl9iZWFtX3NpemVfaHERRz7/plkysLM6WBQAAABlbGVjdHJvbl9iZWFtX3Np
+emVfdnESRz7OgSGKB7sTWBYAAABlbGVjdHJvbl9lbmVyZ3lfaW5fR2VWcRNHQBgAAAAAAABYFgAA
+AGVsZWN0cm9uX2VuZXJneV9zcHJlYWRxFEc/TpXXwx/6x1gLAAAAbW9tZW50X3hweHBxFUc9tPrl
+lhL4SVgJAAAAbW9tZW50X3h4cRZHPg9NrZCc5stYCgAAAG1vbWVudF94eHBxF0cAAAAAAAAAAFgL
+AAAAbW9tZW50X3lweXBxGEc9gKEvZ5tDM1gJAAAAbW9tZW50X3l5cRlHPa0UJ/lahBtYCgAAAG1v
+bWVudF95eXBxGkcAAAAAAAAAAFgRAAAAbnVtYmVyX29mX2J1bmNoZXNxG0sBWBEAAABudW1iZXJf
+b2ZfcGVyaW9kc3EcR0BfQAAAAAAAWA0AAABwZXJpb2RfbGVuZ3RocR1HP5K9PDYRNAVYDAAAAHJp
+bmdfY3VycmVudHEeRz/JmZmZmZmaWBMAAABzYXZlZFdpZGdldEdlb21ldHJ5cR9jc2lwCl91bnBp
+Y2tsZV90eXBlCnEgWAwAAABQeVF0NS5RdENvcmVxIVgKAAAAUUJ5dGVBcnJheXEiQ0IB2dDLAAMA
+AAAAAFQAAAAbAAACHwAAAvQAAABUAAAAOQAAAh8AAAL0AAAAAAAAAAAGkAAAAFQAAAA5AAACHwAA
+AvRxI4VxJIdxJVJxJlgLAAAAc291cmNlX25hbWVxJ1gXAAAARVNSRl9JRDE2X0VCU19QUFUxOC4z
+XzNxKFgPAAAAc3luZWRfZmlsZV9uYW1lcSlYTgAAAGh0dHA6Ly9mdHAuZXNyZi5ldS9wdWIvc2Np
+c29mdC9zeW5lZC9saWdodHNvdXJjZXMvRVNSRl9JRDE2X0VCU19QUFUxOC4zXzMuanNvbnEqWBIA
+AAB0eXBlX29mX3Byb3BlcnRpZXNxK0sAdS4=
+</properties>
+		<properties format="pickle" node_id="1">gAN9cQAoWAcAAABkZWx0YV9lcQFHAAAAAAAAAABYBgAAAGVuZXJneXECR0DQRzKwIMScWBEAAABm
+aWxlX3RvX3dyaXRlX291dHEDSwBYEAAAAGlzX2F1dG9tYXRpY19ydW5xBIhYDgAAAG51bWJlcl9v
+Zl9yYXlzcQVNiBNYEwAAAHNhdmVkV2lkZ2V0R2VvbWV0cnlxBmNzaXAKX3VucGlja2xlX3R5cGUK
+cQdYDAAAAFB5UXQ1LlF0Q29yZXEIWAoAAABRQnl0ZUFycmF5cQlDQgHZ0MsAAwAAAAAAVAAAABsA
+AAV7AAAC9AAAAFQAAAA5AAAFewAAAvQAAAAAAAAAAAaQAAAAVAAAADkAAAV7AAAC9HEKhXELh3EM
+UnENWAQAAABzZWVkcQ5KEZ5WAFgSAAAAc2lnbWFfZGl2ZXJnZW5jZV94cQ9HPtJSVGwBGrNYEgAA
+AHNpZ21hX2RpdmVyZ2VuY2VfenEQRz63EX5/ekUpWAcAAABzaWdtYV94cRFHPv+mWTKwszpYBwAA
+AHNpZ21hX3pxEkc+zoEhige7E1gQAAAAdW5kdWxhdG9yX2xlbmd0aHETR0ACTMzMzMzNWAkAAAB2
+aWV3X3R5cGVxFEsAdS4=
+</properties>
+	</node_properties>
+</scheme>
