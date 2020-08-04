@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme description="" title="" version="2.0" working_directory="/users/srio/Oasys" workspace_units="0">
+	<nodes>
+		<node id="0" name="Finite Element reader" position="(150, 150)" project_name="OASYS1-ESRF-Extensions" qualified_name="orangecontrib.esrf.syned.widgets.extension.ow_esrf_finite_element_reader.FiniteElementReader" title="Finite Element reader (ESRF file from Philipp Brumund)" version="" />
+		<node id="1" name="Finite Element reader" position="(154.0, 343.0)" project_name="OASYS1-ESRF-Extensions" qualified_name="orangecontrib.esrf.syned.widgets.extension.ow_esrf_finite_element_reader.FiniteElementReader" title="Finite Element reader (ALS file from Grant Cutler)" version="" />
+	</nodes>
+	<links />
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties format="pickle" node_id="0">gAN9cQAoWBQAAABjb29yZGluYXRlX3Byb2ZpbGUxRHEBRwAAAAAAAAAAWAkAAABkZXRyZW5kZWRx
+AksAWBMAAABkZXRyZW5kZWRfZml0X3JhbmdlcQNHP/AAAAAAAABYEQAAAGV4dHJhY3RfcHJvZmls
+ZTFEcQRLAFgNAAAAZmlsZV9mYWN0b3JfeHEFRz9QYk3S8an8WA0AAABmaWxlX2ZhY3Rvcl95cQZH
+P1BiTdLxqfxYDQAAAGZpbGVfZmFjdG9yX3pxB0c/UGJN0vGp/FgHAAAAZmlsZV9pbnEIWHkAAABo
+dHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vb2FzeXMtZXNyZi1raXQvT2FzeXNXb3Jr
+c3BhY2VzL21hc3Rlci9BTlNZUy9JRDAzLURNTS1MQzMtRTIwLjI1a2VWLXRoMC4yNDVkZWctV2M4
+bW0ub3V0cQlYEAAAAGZpbGVfaW5fc2tpcHJvd3NxCksJWAwAAABmaWxlX2luX3R5cGVxC0sBWAgA
+AABmaWxlX291dHEMWCoAAABJRDAzLURNTS1MQzMtRTIwLjI1a2VWLXRoMC4yNDVkZWctV2M4bW0u
+aDVxDVgRAAAAaW52ZXJ0X2F4ZXNfbmFtZXNxDksBWAgAAABuX2F4aXNfMHEPTSEDWAgAAABuX2F4
+aXNfMXEQTfQBWAoAAAByZW1vdmVfbmFucRFLAFgXAAAAcmVwbGljYXRlX3Jhd19kYXRhX2ZsYWdx
+EksBWBMAAAByZXNldF9oZWlnaHRfbWV0aG9kcRNLAlgTAAAAc2F2ZWRXaWRnZXRHZW9tZXRyeXEU
+Y3NpcApfdW5waWNrbGVfdHlwZQpxFVgMAAAAUHlRdDUuUXRDb3JlcRZYCgAAAFFCeXRlQXJyYXlx
+F0NCAdnQywADAAAAAAFIAAAA9wAABm8AAAOyAAABSAAAAPcAAAZvAAADsgAAAAAAAAAABpAAAAFI
+AAAA9wAABm8AAAOycRiFcRmHcRpScRtYCwAAAHNpZ21hX2F4aXMwcRxLClgLAAAAc2lnbWFfYXhp
+czFxHUsKWAoAAABzaWdtYV9mbGFncR5LAHUu
+</properties>
+		<properties format="pickle" node_id="1">gAN9cQAoWBQAAABjb29yZGluYXRlX3Byb2ZpbGUxRHEBRwAAAAAAAAAAWAkAAABkZXRyZW5kZWRx
+AksAWBMAAABkZXRyZW5kZWRfZml0X3JhbmdlcQNHP/AAAAAAAABYEQAAAGV4dHJhY3RfcHJvZmls
+ZTFEcQRLAFgNAAAAZmlsZV9mYWN0b3JfeHEFRz/wAAAAAAAAWA0AAABmaWxlX2ZhY3Rvcl95cQZH
+P/AAAAAAAABYDQAAAGZpbGVfZmFjdG9yX3pxB0c/8AAAAAAAAFgHAAAAZmlsZV9pbnEIWFQAAABo
+dHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vb2FzeXMtZXNyZi1raXQvT2FzeXNXb3Jr
+c3BhY2VzL21hc3Rlci9BTlNZUy9zNC50eHRxCVgQAAAAZmlsZV9pbl9za2lwcm93c3EKSwBYDAAA
+AGZpbGVfaW5fdHlwZXELSwBYCAAAAGZpbGVfb3V0cQxYBQAAAHM0Lmg1cQ1YEQAAAGludmVydF9h
+eGVzX25hbWVzcQ5LAVgIAAAAbl9heGlzXzBxD00hA1gIAAAAbl9heGlzXzFxEE30AVgKAAAAcmVt
+b3ZlX25hbnERSwBYFwAAAHJlcGxpY2F0ZV9yYXdfZGF0YV9mbGFncRJLAFgTAAAAcmVzZXRfaGVp
+Z2h0X21ldGhvZHETSwJYEwAAAHNhdmVkV2lkZ2V0R2VvbWV0cnlxFGNzaXAKX3VucGlja2xlX3R5
+cGUKcRVYDAAAAFB5UXQ1LlF0Q29yZXEWWAoAAABRQnl0ZUFycmF5cRdDQgHZ0MsAAwAAAAABSAAA
+APcAAAZvAAADsgAAAUgAAAD3AAAGbwAAA7IAAAAAAAAAAAaQAAABSAAAAPcAAAZvAAADsnEYhXEZ
+h3EaUnEbWAsAAABzaWdtYV9heGlzMHEcSwpYCwAAAHNpZ21hX2F4aXMxcR1LClgKAAAAc2lnbWFf
+ZmxhZ3EeSwB1Lg==
+</properties>
+	</node_properties>
+</scheme>
